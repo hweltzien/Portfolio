@@ -42,12 +42,10 @@ The portfolio has a horizontal navigation bar with four items. Three items provi
 <ul>
     <li>Tutoring session with Brooke Love</li>
     <li>Office hours with Anthony Barrigan</li>
-    <li>HTML Crash Course For Absolute Beginners <img src="./assets/images/HTML Crash Course.png" alt=YouTube video screenshot></li>
-    <li>CSS Crash Course For Absolute Beginners <img src="./assets/images/CSS Crash Course.png" alt=YouTube video screenshot></li>
 </ul>
 
 ## License
 
 Please refer to the LICENSE in the repo.
 
-# [link to completed project](________________)
+# [link to completed project](https://hweltzien.github.io/Portfolio/)
