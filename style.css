@@ -32,16 +32,16 @@ section div ul li a {
 
 nav ul li {
     list-style-type: none;
-    display: inline-block;
+    /* display: inline-block; */
     margin-left: 25px;
 }
 
 .nav-image {
-    height: 200px;
-    width: 100%;
+    height: 300px;
+    width: auto;
     margin-bottom: 25px;
-    background-image: url("./assets/bookstore.png");
-    background-size: cover;
+    background-image: url("./assets/alaska.png");
+    /* background-size: cover; */
     background-position: center;
 }
 
@@ -51,22 +51,30 @@ nav ul li {
 }
 
 div.content-area {
-    flex: 3;
+    flex: 5;
     padding: 20px;
     display: flex;
     text-decoration: none;
     margin:20px;  
 }
 
-section div img {   
-    height: 150px;
-    width: auto;    
+.w3-round {
+    border-radius: 50%;
+    height: 200px;
+    margin-right: 10px;
 }
+
+/* section div img {   
+    
+    width: auto;
+    margin: 10px;
+    /* border-radius: 49%;     */
+ 
 
 
 .aside-title {
     flex: 1;
-    border-right: 5px black solid;
+    /* border-right: 5px black solid; */
     text-align: right;
     padding-right: 20px;    
 }
@@ -80,26 +88,33 @@ section div ul li {
     font-size: 20px;
 }
 
+.container {
+    column-count: 3;
+}
 
-div.w3-card {
-    width: 300px; 
-    background-color: white;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    margin-bottom: 25px;
+img:hover {
+    /* width: 300px; 
+    background-color: white; */
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-left: 110px;  */
+    border: black 3px solid;
+    /* padding: 0px; */
 }
   
 div.w3-container {
     text-align: center;
-    padding: 0;
+    padding: 0px;
     text-decoration: none;
     color: black;  
+    
 }
  
-a.font-size:hover {
-    font-size: 150%;
+/* a.font-size:hover {
+    /* font-size: 150%;
     text-decoration: none;
-    color: black;
-}
+    color: black; */
+   
+/* } */
  
 @media only screen and (max-width:768px) {
     div.content-area {
