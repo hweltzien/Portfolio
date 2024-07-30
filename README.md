@@ -41,7 +41,7 @@ The portfolio has a horizontal navigation bar with four items. Three items provi
 ## Credits
 <ul>
     <li>Tutoring session with Brooke Love</li>
-    <li>Office hours with Anthony Barrigan</li>
+    <li>Office hours with Anthony Barragan</li>
 </ul>
 
 ## License

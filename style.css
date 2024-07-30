@@ -12,15 +12,16 @@ body {
     line-height: 1.6em
 }
 
-nav {
+/* nav {
     padding-top: 15px;
     margin-right: 20px;
-    float: right;
+    float: left;
     font-size: 30px;
     color: #ffffff;
-}
+} */
 
 nav ul li a {
+    
     color: #ffffff;
     text-decoration: none;
 }
@@ -92,7 +93,7 @@ section div ul li {
     column-count: 3;
 }
 
-img:hover {
+.hover:hover {
     /* width: 300px; 
     background-color: white; */
     /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -109,12 +110,12 @@ div.w3-container {
     
 }
  
-/* a.font-size:hover {
-    /* font-size: 150%;
+a.font-size:hover {
+    font-size: 150%;
     text-decoration: none;
-    color: black; */
+    color: black;
    
-/* } */
+}
  
 @media only screen and (max-width:768px) {
     div.content-area {
