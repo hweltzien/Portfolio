@@ -7,11 +7,19 @@ a {
 }
 
 body {
-    background-color: #faebd7;
-    font-family: 'Lucida Console', Monaco, monospace;
+   
+    
     line-height: 1.6em
 }
 
+h1 {
+    font-family: "Dancing Script", cursive;
+}
+
+p {
+    
+    font-family: "Shadows Into Light", cursive;
+}   
 /* nav {
     padding-top: 15px;
     margin-right: 20px;
