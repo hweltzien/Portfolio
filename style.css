@@ -16,10 +16,18 @@ h1 {
     font-family: "Dancing Script", cursive;
 }
 
+h2 {
+    font-family: "Dancing Script", cursive;
+}
+
 p {
     
     font-family: "Shadows Into Light", cursive;
 }   
+
+ul li {
+    font-family: "Shadows Into Light", cursive;
+}
 /* nav {
     padding-top: 15px;
     margin-right: 20px;
